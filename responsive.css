@@ -1,0 +1,104 @@
+@media only screen and (max-width: 576px) {
+        
+    /* Top Section */
+
+    nav{
+        margin-bottom: 20px;
+    }
+    .logo{
+        margin-bottom: 20px;
+        width: 50%;
+    }  
+    .banner{
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          padding: 10px;
+      }  
+
+
+    /* Casual Travel Backpack Section */
+      
+    .bag-section-header{
+        text-align: center;
+    }
+        
+    .casual-bag-section{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card-margin{
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .bag-details{
+        width: 460px;
+    }
+
+    /* Product Information Dsing  */
+
+    .product-delivery-info{
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .delivery-img{
+        margin: 50px 0px;
+    }
+
+    .delivery-txt{
+        padding-right: 0;
+    }
+
+    .fit{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 0;
+    }
+
+    .product-innner-info{
+        text-align: center;
+        padding: 20px;
+    }
+
+
+    /* Bottom Section Desing */
+
+    .bottom-section{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .address, .links{
+        margin-bottom: 30px;
+    }
+
+    .address, .links, .subscribe{
+        text-align: center;
+        padding: 0px 0px;
+    }
+
+
+    /* Footer Desing */
+
+    footer{
+        text-align: center;
+        padding: 10px 0px;
+    }
+}
