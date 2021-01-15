@@ -1,1 +1,1 @@
-It is a E-commerce website template. I have made it with Programming Hero team for assignment 2!
+It is a E-commerce website template. I have made it with Programming Hero team for assignment 2! It is also responsive site for mobile device. Note that about responsiveness, for mobile devices here i have used 576px width and i have tested it on firefox browser.
